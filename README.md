@@ -1,16 +1,12 @@
 Hi 👋 My name is Rharif Anass
 =============================
 
-Cyber security & IoT engineering
+Cyber security & IoT engineering Student
 --------------------------------
 
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/rharif-anass-9a3252191/)
 * ✉️  You can contact me at [X731072000@gmail.com](mailto:X731072000@gmail.com)
-
-<a href="https://www.twitter.com/RharifAnass" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/RharifAnass?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
