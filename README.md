@@ -4,10 +4,10 @@ Hi 👋 My name is Rharif Anass
 Cyber security & IoT engineering
 --------------------------------
 
-* 🌍  I'm based in Morocco
+* 🌍  I'm based in Morocco 🚩🇲🇦
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/rharif-anass-9a3252191/)
-* ✉️  You can contact me at [X731072000@gmail.com](mailto:X731072000@gmail.com)
-* 'Attack is the secret of defense; defense is the planning of an attack.'-Sun Tzu, The Art of War
+* ✉️  You can contact me at X731072000@gmail.com
+* 'Attack is the secret of defense; defense is the planning of an attack.' 📖 -Sun Tzu, The Art of War 
 * 9,31,8  106,7  207,15 
 
 ### Socials
