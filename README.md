@@ -1,7 +1,7 @@
 Hi 👋 My name is Rharif Anass
 =============================
 
-Cyber security & IoT engineering Student
+Cyber security & IoT engineering
 --------------------------------
 
 * 🌍  I'm based in Morocco
