@@ -22,10 +22,9 @@
 
 <p align="left"> <a href="https://discord.com/users/_ANASS#4668" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/arharif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/anass_rharif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rharif-anass-9a3252191/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RharifAnass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-
-![arharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arharif&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arharif&theme=radical)
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arharif&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="arharif's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arharif&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arharif&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
 
